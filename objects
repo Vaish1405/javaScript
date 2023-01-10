@@ -1,0 +1,10 @@
+JAVASCRIPT OBJECT: 
+- collection of data and functionality stored as properties and methods that describe the object and what it can do. 
+
+Object definition: 
+* const object name {};
+
+- All the properties of the object go inside the curly brackets.
+- Properties are key-value/name-value pairs. The name is a string and value can be anything i.e. a string or an integer or a boolean value. All the properties are separated by commas.
+- The object can also have methods which uses the properties of the current object only. 
+- "this" -> just says that the object taken into consideration is the current object we are working with.

@@ -1,0 +1,6 @@
+Async: 
+
+Defer:
+- This tells the document to load HTML first, while loading the javascript and execute javascript after the complete download of HTML file. 
+- The script tag is placed in the head section instead of body and keyword defer is added
+* <script src="blah" defer> </script>

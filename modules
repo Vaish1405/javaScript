@@ -1,0 +1,10 @@
+MODULES:
+
+- used to create separate javascript files 
+- enables use of javascript files in other files
+CODE: 
+* in the main file: 
+import (object being imported) from "(location of the object)"
+
+* the file that contains object:
+export default (object that is imported by other files) 
